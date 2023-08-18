@@ -1,0 +1,12 @@
+.btn{
+    background-color: rgb(28, 28, 155) ;
+    border: solid;
+    color: white;
+    padding:1;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 56;
+    margin: 8;
+    cursor: 1;
+  }
